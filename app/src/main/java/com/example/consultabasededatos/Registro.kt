@@ -1,4 +1,5 @@
+// Registro.kt
 package com.example.consultabasededatos
 
-data class Registro(val mensaje:String)
-
+// Clase de datos que representa un registro en la base de datos
+data class Registro(val mensaje: String)
